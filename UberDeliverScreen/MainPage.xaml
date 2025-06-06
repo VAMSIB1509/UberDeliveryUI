@@ -14,7 +14,7 @@
         <Image Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"
                Source="food"
                Margin="-15,-60,-15,15"
-               BackgroundColor="#fda400"
+               BackgroundColor="#4287f5"
                HeightRequest="430"
                VerticalOptions="Start"
                Aspect="AspectFit"/>
@@ -25,7 +25,7 @@
                 WidthRequest="56"
                 CornerRadius="28"
                 ImageSource="close"
-                BackgroundColor="#fffeff"
+                BackgroundColor="#42f587"
                 VerticalOptions="Start" />
 
         <!-- Help Button-->
